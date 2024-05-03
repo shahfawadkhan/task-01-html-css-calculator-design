@@ -3,7 +3,7 @@ body{
     background-color: #999999;
 }
 .calculator{
-   width: 29%;
+   width: 30%;
    height: 480px;
    background-color:#333333;
    border-radius: 30px;
@@ -12,9 +12,9 @@ body{
 
 }
 .allbtns{
-    width: 90%;
-    margin: 20px;
-    margin-left: 20px;
+    width: 100%;
+   
+    margin-left: 7px; 
     float: left;
 }
 .btn{
@@ -23,6 +23,7 @@ body{
     color:white;
     font-size: 20px;
     margin: 5px;
+    margin-left: 5px;
     background-color:#999999;
     box-shadow: inset -8px -6px 1px #585853;
     text-align: center;
@@ -33,7 +34,7 @@ body{
     float: left;
 }
 .myinput{
-    width: 87%;
+    width: 84%;
     padding: 18px;
     height: 30px;
     float: left;
@@ -43,6 +44,7 @@ body{
     background-color: rgb(251, 251, 234);
     text-align: end;
     font-size: xx-large;
+    margin-top: 20px;
 }
 .btng2{
     float: left;
